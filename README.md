@@ -16,14 +16,23 @@ A real-time age and gender detection system built using Python and OpenCV, power
 ## 📁 Project Structure
 
 AgeGender-Detection/
+
 ├── Images
+
 ├── AgeGender.py
+
 ├── age_deploy.prototxt
+
 ├── age_net.caffemodel
+
 ├── gender_deploy.prototxt
+
 ├── gender_net.caffemodel
+
 ├── age_gender.py
+
 ├── opencv_face_detector.pbtxt
+
 └── opencv_face_detector_unit8.pb
 
 
@@ -36,7 +45,6 @@ AgeGender-Detection/
 ```bash
 git clone https://github.com/your-username/Agender.git
 cd Agender
-python age_gender.py
 ```
 
 2. **Run the Project**
